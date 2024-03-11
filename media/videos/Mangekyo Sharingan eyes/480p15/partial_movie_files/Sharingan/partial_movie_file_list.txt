@@ -1,3 +1,3 @@
 # This file is used internally by FFMPEG.
-file 'file:F:/6-Matematik ß/Manim/Mangekyo Sharingan eyes/media/videos/Mangekyo Sharingan eyes/480p15/partial_movie_files/Sharingan/1185818338_3072527565_223132457.mp4'
-file 'file:F:/6-Matematik ß/Manim/Mangekyo Sharingan eyes/media/videos/Mangekyo Sharingan eyes/480p15/partial_movie_files/Sharingan/624642324_1704852926_2677122782.mp4'
+file 'file:F:/6-Matematik ß/Manim/Mangekyo Sharingan eyes/media/videos/Mangekyo Sharingan eyes/480p15/partial_movie_files/Sharingan/1185818338_3400013421_223132457.mp4'
+file 'file:F:/6-Matematik ß/Manim/Mangekyo Sharingan eyes/media/videos/Mangekyo Sharingan eyes/480p15/partial_movie_files/Sharingan/624642324_1704852926_1115735329.mp4'
